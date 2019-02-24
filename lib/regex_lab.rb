@@ -1,6 +1,6 @@
 def starts_with_a_vowel?(word)
    
-    if match.(/\w+[aieou]/)== /\w+[aieou]/
+    if scan.(/\w+[aieou]/)== /\w+[aieou]/
       puts true 
 end
 
