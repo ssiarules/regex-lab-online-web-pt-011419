@@ -1,6 +1,7 @@
 def starts_with_a_vowel?(word)
-   word.match (//)
+   word.match (/\/)
    
+afoot Excellent incredible Absolute unreal Inconceivable octopus
 end
 
 def words_starting_with_un_and_ending_with_ing(text)
