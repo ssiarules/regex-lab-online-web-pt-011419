@@ -7,7 +7,7 @@ text.scan(/un\w+ing/i)
 end
 
 def words_five_letters_long(text)
-  text.scan(//)
+  text.scan(/[a-z]{5}\b /i)
 
 end
 
